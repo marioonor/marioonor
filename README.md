@@ -25,12 +25,24 @@ I’ve supervised cybersecurity teams, managed incident response, and collaborat
 
 ## 🚀 Tech Stack
 
-- **Languages**: Java, Python, JavaScript (Angular)
-- **Backend**: Spring Boot, REST APIs, MySQL, Hibernate, JWT
-- **Cloud**: AWS (EC2, IAM, S3, RDS), Azure, GCP
-- **Security**: EDR, SIEM, QRadar, Splunk, Crowdstrike, CSOC operations
-- **Tools**: Git, Docker, Jenkins, Elasticsearch, Postman
-- **Others**: MISP, Dehashed, Jira, ServiceNow, Swagger
+- 🧑‍💻 **Languages**:  
+  ☕ Java &nbsp;&nbsp;🐍 Python &nbsp;&nbsp;🟨 JavaScript (Angular)
+
+- 🖥️ **Backend**:  
+  ⚙️ Spring Boot &nbsp;&nbsp;🔗 REST APIs &nbsp;&nbsp;🛢️ MySQL &nbsp;&nbsp;🧬 Hibernate &nbsp;&nbsp;🔐 JWT
+
+- ☁️ **Cloud Platforms**:  
+  🟧 AWS (EC2, IAM, S3, RDS) &nbsp;&nbsp;🔵 Azure &nbsp;&nbsp;🟩 GCP
+
+- 🛡️ **Security**:  
+  🧠 EDR &nbsp;&nbsp;📊 SIEM &nbsp;&nbsp;📈 IBM QRadar &nbsp;&nbsp;🔎 Splunk &nbsp;&nbsp;🛡️ CrowdStrike &nbsp;&nbsp;🏢 CSOC Ops
+
+- 🧰 **Tools**:  
+  🧪 Git &nbsp;&nbsp;🐳 Docker &nbsp;&nbsp;⚙️ Jenkins &nbsp;&nbsp;📡 Elasticsearch &nbsp;&nbsp;📬 Postman
+
+- 📦 **Others**:  
+  🛰️ MISP &nbsp;&nbsp;🕵️ Dehashed &nbsp;&nbsp;📋 Jira &nbsp;&nbsp;🛎️ ServiceNow &nbsp;&nbsp;📖 Swagger
+
 
 ---
 
