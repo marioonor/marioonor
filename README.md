@@ -12,6 +12,25 @@ I'm actively focused on developing high-quality applications using **Java**, **S
 Eager to contribute to a dynamic development team, I'm dedicated to continuous learning and applying my skills to build innovative solutions. Let's connect and build something impactful!"
 
 ---
+<p align="center">
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/marioonor?label=Followers&style=social" alt="GitHub Followers" />
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social" alt="Twitter Badge" />
+  </a>
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript&logoColor=white" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white" alt="Python Badge" />
+
+  <!-- Profile Views (using a counter service) -->
+  <img src="https://komarev.com/ghpvc/?username=marioonor&style=flat-square" alt="Profile Views" />
+
+  <!-- Custom Badge -->
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red" alt="Made with Love" />
+</p>
 
 ## 💼 About Me
 
