@@ -3,7 +3,7 @@
 </p>
 
 
-# 👋 Hello, I'm Mario Onor
+# 👋 Hello, I'm Mario
 
 "Welcome to my GitHub profile! I'm a passionate and driven **Junior Java Developer** with a solid foundation in **cybersecurity** and over 1.5 years of hands-on experience. My journey involves securing cloud infrastructure and building robust backend systems.
 
