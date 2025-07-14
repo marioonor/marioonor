@@ -21,9 +21,8 @@ Eager to contribute to a dynamic development team, I'm dedicated to continuous l
     <img src="https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social" alt="Twitter Badge" />
   </a>
 
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript&logoColor=white" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white" alt="Python Badge" />
+  <!-- Java Language Badge -->
+  <img src="https://img.shields.io/badge/Code-Java-red?logo=java&logoColor=white" alt="Java Badge" />
 
   <!-- Profile Views (using a counter service) -->
   <img src="https://komarev.com/ghpvc/?username=marioonor&style=flat-square" alt="Profile Views" />
