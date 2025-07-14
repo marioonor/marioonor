@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/marioonor/marioonor/blob/main/java.jpeg" alt="Mario Onor - Cybersecurity | Java Developer" />
+  <img src="https://github.com/marioonor/marioonor/blob/main/prof.png" alt="Mario Onor - Cybersecurity | Java Developer" />
 </p>
 
 
