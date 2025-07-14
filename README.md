@@ -16,11 +16,6 @@ Eager to contribute to a dynamic development team, I'm dedicated to continuous l
   <!-- GitHub Followers -->
   <img src="https://img.shields.io/github/followers/marioonor?label=Followers&style=social" alt="GitHub Followers" />
 
-  <!-- Twitter -->
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social" alt="Twitter Badge" />
-  </a>
-
   <!-- Java Language Badge -->
   <img src="https://img.shields.io/badge/Code-Java-red?logo=java&logoColor=white" alt="Java Badge" />
 
