@@ -28,20 +28,60 @@ Eager to contribute to a dynamic development team, I'm dedicated to continuous l
 
 ## 💼 About Me
 
-✅ **Versatile Skill Set**  
-From securing enterprise environments to building Spring Boot and Angular applications, I bring a unique blend of cybersecurity and software development skills. I understand how to build secure systems from the ground up, leveraging my knowledge of Java and modern web technologies.
+As a **Cybersecurity Specialist** and **Full-Stack Java Developer**, I bring together hands-on experience, leadership, and a strong technical foundation. Below are the reasons why I’d be an asset to your team:
 
-✅ **Cloud & Security Expertise**  
-I have experience working with AWS for cloud security, enforcing IAM policies, integrating monitoring tools, and investigating incidents. My background includes utilizing Elasticsearch for data analysis and contributing to SIEM monitoring and threat intelligence efforts.
+---
 
-✅ **Real-World Impact**  
-I’ve worked in fast-paced SOC environments, led threat investigations, improved detection systems, and communicated security risks clearly to technical and non-technical stakeholders, as demonstrated during my time at CyTech Development and Operations Inc.
+### 🧠 Versatile Skill Set
+From defending enterprise environments to building secure **Spring Boot + Angular** applications, I bridge the gap between cybersecurity and software development.
 
-✅ **Builder at Heart**  
-I enjoy creating solutions. Whether it’s a Spring Boot REST API, a PDF scanner in Java (like my GRC Evidence Collection Tool), or a secure user login system (like my To-Do List Web Application), I thrive in designing and coding backend logic with security and performance in mind.
+- Proficient in **Java**, **Spring Boot**, **REST APIs**, and modern **web technologies**.
+- Strong foundation in secure coding, data handling, and backend logic development.
+- Passionate about building solutions from the ground up — with **security first**.
 
-✅ **Team Player with Leadership Experience**  
-I’ve supervised cybersecurity teams, led incident response efforts, and collaborated across departments to deliver results under pressure, particularly in my role overseeing SOC shift management.
+---
+
+### ☁️ Cloud & Security Expertise
+I specialize in securing cloud environments, monitoring infrastructure, and identifying threats before they escalate.
+
+- Hands-on with **AWS**: IAM policies, EC2, S3, RDS, and VPC security.
+- Experienced in **log monitoring and threat detection** using **Elasticsearch**, **SIEM**, and **custom alerting**.
+- Worked on **threat intelligence and incident response**, supporting security compliance.
+
+---
+
+### 🔥 Real-World Impact
+I've worked on high-stakes projects in SOC environments where security is critical.
+
+- Led threat investigations and escalations in real-time environments.
+- Improved alert fidelity and detection rules for better threat visibility.
+- Successfully translated technical risks for non-technical teams and executives.
+- **Proven track record** during my time at **CyTech Development and Operations Inc.**
+
+---
+
+### 🛠️ Builder at Heart
+I don’t just defend systems — I build them too.
+
+- 🛡️ **GRC Evidence Collection Tool**: Java-based PDF scanner to extract and track security evidence.
+- ✅ **Secure To-Do List App**: Spring Boot + JWT + MySQL + Angular frontend with role-based access.
+- 🔐 Designed authentication systems that are both user-friendly and security-hardened.
+
+---
+
+### 👥 Team Player & Leader
+I lead by example, communicate clearly, and support cross-functional teams to meet security and project goals.
+
+- Supervised SOC teams and managed incident response workflows.
+- Provided coaching and shift leadership to analysts for optimal coverage.
+- Collaborated with DevOps, compliance, and engineering teams to solve security and operational challenges under pressure.
+
+---
+
+> 💬 *"I build with security in mind and protect with a developer’s mindset."*
+
+📩 Let’s connect and create secure, scalable, and meaningful systems together.
+
 
 ---
 
