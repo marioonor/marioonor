@@ -28,10 +28,6 @@ Eager to contribute to a dynamic development team, I'm dedicated to continuous l
 
 ## 💼 About Me
 
-As a **Cybersecurity Specialist** and **Full-Stack Java Developer**, I bring together hands-on experience, leadership, and a strong technical foundation. Below are the reasons why I’d be an asset to your team:
-
----
-
 ### 🧠 Versatile Skill Set
 From defending enterprise environments to building secure **Spring Boot + Angular** applications, I bridge the gap between cybersecurity and software development.
 
