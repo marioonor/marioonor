@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate and driven **Cybersecurity Specia
 
 ---
 
-## 💼 Why You Should Hire Me
+## 💼 About Me
 
 ✅ **Versatile Skill Set**  
 From defending enterprise environments to building Spring Boot APIs, I bring a unique blend of cybersecurity and software development skills. I understand how to build secure systems from the ground up.
