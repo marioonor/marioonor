@@ -128,9 +128,8 @@ I lead by example, communicate clearly, and support cross-functional teams to me
 
 ## 🛠️ Projects You Can Explore
 
-- 🔒 **Cloud-Secured Spring Boot API** — Role-based authentication with JWT and secure registration/login.  
-- 📄 **Java PDF Scanner** — Custom-built tool to extract and match keywords in PDF documents.  
-- 🧠 **Cyber Threat Analyzer** — Log and threat detection using Elasticsearch and SIEM tools.
+- 📄 **DataShift: Automated Compliance Evidence Extraction** — DataShift is a full-stack web application designed to streamline and automate the process of finding and managing evidence for compliance controls within large sets of documents. It allows users to define controls and associated keywords via an Excel upload, and then automatically scans uploaded PDF documents to identify and report on relevant evidence. This significantly reduces manual effort in auditing and compliance verification.
+- 🧠 **Full-Stack To-Do Application** — This is a full-stack To-Do list application featuring a modern Angular frontend and a robust Spring Boot backend. It provides user authentication and two different views for managing tasks: a classic list view and an interactive Kanban board.
 
 *Check my pinned repositories below ⬇*
 
