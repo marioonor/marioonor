@@ -82,9 +82,9 @@ I’ve supervised cybersecurity teams, managed incident response, and collaborat
 
 I'm open to **remote or on-site roles** in **Cloud Security**, **Backend Development**, or **Cybersecurity Engineering**.
 
-📧 **Email**: onormario@gmail.com  
+📧 **Email**: onor.mario25@gmail.com  
 💼 **LinkedIn**: [linkedin.com/in/marioonor](https://linkedin.com/in/marioonor)  
-🌐 **Location**: Philippines (Open to relocation)
+🌐 **Location**: Philippines (NCR)
 
 ---
 
