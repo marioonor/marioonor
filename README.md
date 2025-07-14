@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Mario Onor - Cybersecurity | Java Developer" />
+</p>
+
+
 # 👋 Hello, I'm Mario Onor
 
 Welcome to my GitHub profile! I'm a passionate and driven **Cybersecurity Specialist** and **Java Developer** with over 1.5 years of hands-on experience in securing cloud infrastructure, developing robust backend systems, and helping organizations stay safe in the evolving digital world.
