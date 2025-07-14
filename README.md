@@ -5,7 +5,11 @@
 
 # 👋 Hello, I'm Mario Onor
 
-Welcome to my GitHub profile! I'm a passionate and driven **Cybersecurity Specialist** and **Java Developer** with over 1.5 years of hands-on experience in securing cloud infrastructure, developing robust backend systems, and helping organizations stay safe in the evolving digital world.
+"Welcome to my GitHub profile! I'm a passionate and driven **Junior Java Developer** with a solid foundation in **cybersecurity** and over 1.5 years of hands-on experience. My journey involves securing cloud infrastructure and building robust backend systems.
+
+I'm actively focused on developing high-quality applications using **Java**, **Spring Boot**, and **Angular**, as demonstrated by my projects like the GRC Evidence Collection Tool and To-Do List Web Application. My background in cybersecurity provides a unique advantage in creating secure, resilient software, as I understand system vulnerabilities and defensive programming practices.
+
+Eager to contribute to a dynamic development team, I'm dedicated to continuous learning and applying my skills to build innovative solutions. Let's connect and build something impactful!"
 
 ---
 
