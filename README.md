@@ -59,8 +59,8 @@ I've worked on high-stakes projects in SOC environments where security is critic
 ### 🛠️ Builder at Heart
 I don’t just defend systems — I build them too.
 
-- 🛡️ **GRC Evidence Collection Tool**: Java-based PDF scanner to extract and track security evidence.
-- ✅ **Secure To-Do List App**: Spring Boot + JWT + MySQL + Angular frontend with role-based access.
+- 🛡️ **DataShift: Automated Compliance Evidence Extraction**: Java-based PDF scanner to extract and track security evidence.
+- ✅ **Full-Stack To-Do Application**: Spring Boot + JWT + MySQL + Angular frontend with role-based access.
 - 🔐 Designed authentication systems that are both user-friendly and security-hardened.
 
 ---
