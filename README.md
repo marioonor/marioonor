@@ -25,23 +25,45 @@ I’ve supervised cybersecurity teams, managed incident response, and collaborat
 
 ## 🚀 Tech Stack
 
-- 🧑‍💻 **Languages**:  
-  ☕ Java &nbsp;&nbsp;🐍 Python &nbsp;&nbsp;🟨 JavaScript (Angular)
+### 🧑‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-- 🖥️ **Backend**:  
-  ⚙️ Spring Boot &nbsp;&nbsp;🔗 REST APIs &nbsp;&nbsp;🛢️ MySQL &nbsp;&nbsp;🧬 Hibernate &nbsp;&nbsp;🔐 JWT
+### 🖥️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-00599C?style=flat&logo=apachespark&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-- ☁️ **Cloud Platforms**:  
-  🟧 AWS (EC2, IAM, S3, RDS) &nbsp;&nbsp;🔵 Azure &nbsp;&nbsp;🟩 GCP
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-- 🛡️ **Security**:  
-  🧠 EDR &nbsp;&nbsp;📊 SIEM &nbsp;&nbsp;📈 IBM QRadar &nbsp;&nbsp;🔎 Splunk &nbsp;&nbsp;🛡️ CrowdStrike &nbsp;&nbsp;🏢 CSOC Ops
+### 🛡️ Security
+![EDR](https://img.shields.io/badge/EDR-FF6B00?style=flat&logo=protonvpn&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-111827?style=flat&logo=datadog&logoColor=white)
+![QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat&logo=ibm&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-EF1C1C?style=flat&logo=crowdstrike&logoColor=white)
+![CSOC](https://img.shields.io/badge/CSOC-0A0A0A?style=flat&logo=cyberdefenders&logoColor=white)
 
-- 🧰 **Tools**:  
-  🧪 Git &nbsp;&nbsp;🐳 Docker &nbsp;&nbsp;⚙️ Jenkins &nbsp;&nbsp;📡 Elasticsearch &nbsp;&nbsp;📬 Postman
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-- 📦 **Others**:  
-  🛰️ MISP &nbsp;&nbsp;🕵️ Dehashed &nbsp;&nbsp;📋 Jira &nbsp;&nbsp;🛎️ ServiceNow &nbsp;&nbsp;📖 Swagger
+### 📦 Others
+![MISP](https://img.shields.io/badge/MISP-183153?style=flat&logoColor=white)
+![Dehashed](https://img.shields.io/badge/Dehashed-000000?style=flat&logo=databricks&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00C7B7?style=flat&logo=servicenow&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 
 ---
