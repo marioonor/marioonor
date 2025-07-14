@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Mario Onor - Cybersecurity | Java Developer" />
+  <img src="https://your-image-url.com/java.jpeg" alt="Mario Onor - Cybersecurity | Java Developer" />
 </p>
 
 
