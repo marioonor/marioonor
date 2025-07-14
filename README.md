@@ -29,19 +29,19 @@ Eager to contribute to a dynamic development team, I'm dedicated to continuous l
 ## 💼 About Me
 
 ✅ **Versatile Skill Set**  
-From defending enterprise environments to building Spring Boot APIs, I bring a unique blend of cybersecurity and software development skills. I understand how to build secure systems from the ground up.
+From securing enterprise environments to building Spring Boot and Angular applications, I bring a unique blend of cybersecurity and software development skills. I understand how to build secure systems from the ground up, leveraging my knowledge of Java and modern web technologies.
 
 ✅ **Cloud & Security Expertise**  
-I have experience working with **AWS, Azure, and GCP**, securing cloud resources, enforcing IAM policies, integrating monitoring tools, and investigating incidents using tools like **CrowdStrike**, **QRadar**, **Elasticsearch**, and **Splunk**.
+I have experience working with AWS for cloud security, enforcing IAM policies, integrating monitoring tools, and investigating incidents. My background includes utilizing Elasticsearch for data analysis and contributing to SIEM monitoring and threat intelligence efforts.
 
 ✅ **Real-World Impact**  
-I’ve worked in fast-paced SOC environments, led investigations, improved detection systems, and communicated security risks clearly to technical and non-technical stakeholders.
+I’ve worked in fast-paced SOC environments, led threat investigations, improved detection systems, and communicated security risks clearly to technical and non-technical stakeholders, as demonstrated during my time at CyTech Development and Operations Inc.
 
 ✅ **Builder at Heart**  
-I enjoy creating solutions. Whether it’s a **Spring Boot REST API**, a **PDF scanner in Java**, or a **secure user login system**, I thrive in designing and coding backend logic with security and performance in mind.
+I enjoy creating solutions. Whether it’s a Spring Boot REST API, a PDF scanner in Java (like my GRC Evidence Collection Tool), or a secure user login system (like my To-Do List Web Application), I thrive in designing and coding backend logic with security and performance in mind.
 
 ✅ **Team Player with Leadership Experience**  
-I’ve supervised cybersecurity teams, managed incident response, and collaborated across departments to deliver results under pressure.
+I’ve supervised cybersecurity teams, led incident response efforts, and collaborated across departments to deliver results under pressure, particularly in my role overseeing SOC shift management.
 
 ---
 
